@@ -1,0 +1,992 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v20.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Drift Media Solutions - reesedrift</title>
+	<link rel="canonical" href="http://reesedrift.local/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Drift Media Solutions - reesedrift" />
+	<meta property="og:description" content="Providing Consistent Marketing Services Specializing in holistic solutions. Digital and Traditional, we&#8217;ve got you covered. Contact us now for your free marketing analysis. TRADITIONAL DIGITAL Drift Media Solutions Tired of the large agencies not giving your campaign the attention you need? Drift Media Solutions is a boutique agency providing big results and the time and [&hellip;]" />
+	<meta property="og:url" content="http://reesedrift.local/" />
+	<meta property="og:site_name" content="reesedrift" />
+	<meta property="article:modified_time" content="2023-03-06T20:20:16+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Est. reading time" />
+	<meta name="twitter:data1" content="1 minute" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"http://reesedrift.local/","url":"http://reesedrift.local/","name":"Drift Media Solutions - reesedrift","isPartOf":{"@id":"http://reesedrift.local/#website"},"about":{"@id":"http://reesedrift.local/#organization"},"datePublished":"2023-03-06T20:20:05+00:00","dateModified":"2023-03-06T20:20:16+00:00","breadcrumb":{"@id":"http://reesedrift.local/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["http://reesedrift.local/"]}]},{"@type":"BreadcrumbList","@id":"http://reesedrift.local/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"http://reesedrift.local/#website","url":"http://reesedrift.local/","name":"reesedrift","description":"","publisher":{"@id":"http://reesedrift.local/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"http://reesedrift.local/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"http://reesedrift.local/#organization","name":"reesedrift","url":"http://reesedrift.local/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"http://reesedrift.local/#/schema/logo/image/","url":"http://reesedrift.local/wp-content/uploads/2023/03/drift-logo.png","contentUrl":"http://reesedrift.local/wp-content/uploads/2023/03/drift-logo.png","width":747,"height":177,"caption":"reesedrift"},"image":{"@id":"http://reesedrift.local/#/schema/logo/image/"}}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="alternate" type="application/rss+xml" title="reesedrift &raquo; Feed" href="http://reesedrift.local/feed/" />
+<link rel="alternate" type="application/rss+xml" title="reesedrift &raquo; Comments Feed" href="http://reesedrift.local/comments/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/reesedrift.local\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1.1"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='http://reesedrift.local/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='http://reesedrift.local/wp-includes/css/classic-themes.min.css?ver=1' media='all' />
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='hello-elementor-css' href='http://reesedrift.local/wp-content/themes/hello-elementor/style.min.css?ver=2.6.1' media='all' />
+<link rel='stylesheet' id='hello-elementor-theme-style-css' href='http://reesedrift.local/wp-content/themes/hello-elementor/theme.min.css?ver=2.6.1' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='http://reesedrift.local/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.11.3' media='all' />
+<link rel='stylesheet' id='elementor-post-13-css' href='http://reesedrift.local/wp-content/uploads/elementor/css/post-13.css?ver=1678295647' media='all' />
+<link rel='stylesheet' id='elementor-icons-css' href='http://reesedrift.local/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.18.0' media='all' />
+<link rel='stylesheet' id='swiper-css' href='http://reesedrift.local/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5' media='all' />
+<link rel='stylesheet' id='elementor-pro-css' href='http://reesedrift.local/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.11.4' media='all' />
+<link rel='stylesheet' id='elementor-global-css' href='http://reesedrift.local/wp-content/uploads/elementor/css/global.css?ver=1678295647' media='all' />
+<link rel='stylesheet' id='elementor-post-165-css' href='http://reesedrift.local/wp-content/uploads/elementor/css/post-165.css?ver=1678295647' media='all' />
+<link rel='stylesheet' id='elementor-post-98-css' href='http://reesedrift.local/wp-content/uploads/elementor/css/post-98.css?ver=1678295647' media='all' />
+<link rel='stylesheet' id='elementor-post-90-css' href='http://reesedrift.local/wp-content/uploads/elementor/css/post-90.css?ver=1678295647' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap&#038;ver=6.1.1' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css' href='http://reesedrift.local/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css' href='http://reesedrift.local/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css' href='http://reesedrift.local/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3' media='all' />
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin><script src='http://reesedrift.local/wp-includes/js/jquery/jquery.min.js?ver=3.6.1' id='jquery-core-js'></script>
+<script src='http://reesedrift.local/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="http://reesedrift.local/wp-json/" /><link rel="alternate" type="application/json" href="http://reesedrift.local/wp-json/wp/v2/pages/165" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://reesedrift.local/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://reesedrift.local/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.1.1" />
+<link rel='shortlink' href='http://reesedrift.local/' />
+<link rel="alternate" type="application/json+oembed" href="http://reesedrift.local/wp-json/oembed/1.0/embed?url=http%3A%2F%2Freesedrift.local%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://reesedrift.local/wp-json/oembed/1.0/embed?url=http%3A%2F%2Freesedrift.local%2F&#038;format=xml" />
+<meta name="generator" content="Elementor 3.11.3; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, a11y_improvements, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
+</head>
+<body class="home page-template page-template-elementor_header_footer page page-id-165 wp-custom-logo elementor-default elementor-template-full-width elementor-kit-13 elementor-page elementor-page-165">
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>
+<a class="skip-link screen-reader-text" href="#content">
+	Skip to content</a>
+
+		<div data-elementor-type="header" data-elementor-id="98" class="elementor elementor-98 elementor-location-header">
+								<section class="elementor-section elementor-top-section elementor-element elementor-element-33d8f040 elementor-section-full_width elementor-hidden-tablet elementor-hidden-mobile elementor-section-height-default elementor-section-height-default" data-id="33d8f040" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-narrow">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-541fe9b0" data-id="541fe9b0" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-2dadeb76 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="2dadeb76" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-36ca8092" data-id="36ca8092" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-387feac7 elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="387feac7" data-element_type="widget" data-widget_type="theme-site-logo.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.11.3 - 07-03-2023 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>								<a href="http://reesedrift.local">
+			<img width="747" height="177" src="http://reesedrift.local/wp-content/uploads/2023/03/drift-logo.png" class="attachment-full size-full wp-image-242" alt="" loading="lazy" srcset="http://reesedrift.local/wp-content/uploads/2023/03/drift-logo.png 747w, http://reesedrift.local/wp-content/uploads/2023/03/drift-logo-300x71.png 300w" sizes="(max-width: 747px) 100vw, 747px" />				</a>
+											</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-692ed5ee" data-id="692ed5ee" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-67b95b57 elementor-nav-menu__align-center elementor-nav-menu__text-align-center elementor-nav-menu--dropdown-tablet elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="67b95b57" data-element_type="widget" data-settings="{&quot;toggle_icon_hover_animation&quot;:&quot;push&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="http://reesedrift.local/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css">			<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade">
+				<ul id="menu-1-67b95b57" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-191"><a class="elementor-item">Services</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-190"><a href="http://reesedrift.local/digital-solutions/" class="elementor-sub-item">Digital Solutions</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-187"><a href="http://reesedrift.local/traditional-solutions/" class="elementor-sub-item">Traditional Solutions</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-188"><a href="http://reesedrift.local/website-seo-checker/" class="elementor-sub-item">Website SEO Checker</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-189"><a href="http://reesedrift.local/our-work/" class="elementor-item">Our Work</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-186"><a href="http://reesedrift.local/about-us/" class="elementor-item">About Us</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-199"><a class="elementor-item">Case Studies</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-198"><a href="http://reesedrift.local/freddys/" class="elementor-sub-item">Freddy’s</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-196"><a href="http://reesedrift.local/ohm/" class="elementor-sub-item">OHM</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-192"><a href="http://reesedrift.local/omnia-health/" class="elementor-sub-item">Omnia Health</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-193"><a href="http://reesedrift.local/tanner-gun-show/" class="elementor-sub-item">Tanner Gun Show</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195"><a href="http://reesedrift.local/rocky-mountain-bridal-show/" class="elementor-sub-item">Rocky Mountain Bridal Show</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-194"><a href="http://reesedrift.local/mccune-legal/" class="elementor-sub-item">McCune Legal</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-200"><a href="http://reesedrift.local/colorado-gun-collectors-association/" class="elementor-sub-item">Colorado Gun Collectors Association</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-197"><a href="http://reesedrift.local/blog/" class="elementor-item">Blog</a></li>
+</ul>			</nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open elementor-animation-push eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close elementor-animation-push eicon-close"></i>			<span class="elementor-screen-only">Menu</span>
+		</div>
+					<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-2-67b95b57" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-191"><a class="elementor-item" tabindex="-1">Services</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-190"><a href="http://reesedrift.local/digital-solutions/" class="elementor-sub-item" tabindex="-1">Digital Solutions</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-187"><a href="http://reesedrift.local/traditional-solutions/" class="elementor-sub-item" tabindex="-1">Traditional Solutions</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-188"><a href="http://reesedrift.local/website-seo-checker/" class="elementor-sub-item" tabindex="-1">Website SEO Checker</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-189"><a href="http://reesedrift.local/our-work/" class="elementor-item" tabindex="-1">Our Work</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-186"><a href="http://reesedrift.local/about-us/" class="elementor-item" tabindex="-1">About Us</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-199"><a class="elementor-item" tabindex="-1">Case Studies</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-198"><a href="http://reesedrift.local/freddys/" class="elementor-sub-item" tabindex="-1">Freddy’s</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-196"><a href="http://reesedrift.local/ohm/" class="elementor-sub-item" tabindex="-1">OHM</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-192"><a href="http://reesedrift.local/omnia-health/" class="elementor-sub-item" tabindex="-1">Omnia Health</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-193"><a href="http://reesedrift.local/tanner-gun-show/" class="elementor-sub-item" tabindex="-1">Tanner Gun Show</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195"><a href="http://reesedrift.local/rocky-mountain-bridal-show/" class="elementor-sub-item" tabindex="-1">Rocky Mountain Bridal Show</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-194"><a href="http://reesedrift.local/mccune-legal/" class="elementor-sub-item" tabindex="-1">McCune Legal</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-200"><a href="http://reesedrift.local/colorado-gun-collectors-association/" class="elementor-sub-item" tabindex="-1">Colorado Gun Collectors Association</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-197"><a href="http://reesedrift.local/blog/" class="elementor-item" tabindex="-1">Blog</a></li>
+</ul>			</nav>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-1aa0650b" data-id="1aa0650b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-12321139 elementor-align-center elementor-mobile-align-center elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-button" data-id="12321139" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="/contact" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-grow" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">CONTACT US </span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-484f79eb elementor-section-full_width elementor-hidden-desktop elementor-section-height-default elementor-section-height-default" data-id="484f79eb" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-43f3c832" data-id="43f3c832" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-69596f6d elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="69596f6d" data-element_type="widget" data-widget_type="theme-site-logo.default">
+				<div class="elementor-widget-container">
+											<a href="http://reesedrift.local">
+			<img width="747" height="177" src="http://reesedrift.local/wp-content/uploads/2023/03/drift-logo.png" class="attachment-full size-full wp-image-242" alt="" loading="lazy" srcset="http://reesedrift.local/wp-content/uploads/2023/03/drift-logo.png 747w, http://reesedrift.local/wp-content/uploads/2023/03/drift-logo-300x71.png 300w" sizes="(max-width: 747px) 100vw, 747px" />				</a>
+											</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-33fa70f1" data-id="33fa70f1" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-17a52c81" data-id="17a52c81" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-53ffee3d elementor-view-default elementor-widget elementor-widget-icon" data-id="53ffee3d" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<a class="elementor-icon" href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6MzQsInRvZ2dsZSI6dHJ1ZX0%3D">
+			<i aria-hidden="true" class="fas fa-bars"></i>			</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+				<div data-elementor-type="wp-post" data-elementor-id="165" class="elementor elementor-165">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-2c5f6443 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="2c5f6443" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;video&quot;,&quot;shape_divider_bottom&quot;:&quot;opacity-tilt&quot;,&quot;background_video_link&quot;:&quot;https:\/\/reesedev.xyz\/wp-content\/uploads\/2022\/12\/Waterfall-48893.mp4&quot;,&quot;background_play_on_mobile&quot;:&quot;yes&quot;,&quot;background_video_start&quot;:0}">
+								<div class="elementor-background-video-container">
+													<video class="elementor-background-video-hosted elementor-html5-video" autoplay muted playsinline loop></video>
+											</div>
+									<div class="elementor-background-overlay"></div>
+						<div class="elementor-shape elementor-shape-bottom" data-negative="false">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2600 131.1" preserveAspectRatio="none">
+	<path class="elementor-shape-fill" d="M0 0L2600 0 2600 69.1 0 0z"/>
+	<path class="elementor-shape-fill" style="opacity:0.5" d="M0 0L2600 0 2600 69.1 0 69.1z"/>
+	<path class="elementor-shape-fill" style="opacity:0.25" d="M2600 0L0 0 0 130.1 2600 69.1z"/>
+</svg>		</div>
+					<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-41391137" data-id="41391137" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-19672a6d elementor-widget elementor-widget-heading" data-id="19672a6d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.11.3 - 07-03-2023 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h1 class="elementor-heading-title elementor-size-default">Providing Consistent <br>Marketing Services</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-655f77ee elementor-widget elementor-widget-text-editor" data-id="655f77ee" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.11.3 - 07-03-2023 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				Specializing in holistic solutions.<br>
+Digital and Traditional, we&#8217;ve got you covered.<br>
+Contact us now for your free marketing analysis.
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-7faaabdd elementor-widget__width-auto elementor-invisible elementor-widget elementor-widget-button" data-id="7faaabdd" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="/traditional-solutions" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">TRADITIONAL </span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4d660cef elementor-widget__width-auto elementor-invisible elementor-widget elementor-widget-button" data-id="4d660cef" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInRight&quot;}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="/digital-solutions/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">DIGITAL </span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7038393 animated-slow elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="7038393" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-347772bd" data-id="347772bd" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-15ac9935 elementor-widget elementor-widget-heading" data-id="15ac9935" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Drift Media Solutions</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6bb6ae7c elementor-widget elementor-widget-text-editor" data-id="6bb6ae7c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Tired of the large agencies not giving your campaign the attention you need? Drift Media Solutions is a boutique agency providing big results and the time and energy your company deserves.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-21ca6abd elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="21ca6abd" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-176e99f5" data-id="176e99f5" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-1628fa81 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1628fa81" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-10a099a8 animated-slow elementor-invisible" data-id="10a099a8" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7dd5767d elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="7dd5767d" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="http://reesedrift.local/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css">		<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-" >
+				<i aria-hidden="true" class="fas fa-road"></i>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span  >
+						Data Driven Digital					</span>
+				</h3>
+									<p class="elementor-icon-box-description">
+						It is impossible to make it to your destination without an end location defined. We work with you to establish goals and then exceed those expectations.					</p>
+							</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-67c950e7 elementor-align-justify elementor-widget elementor-widget-button" data-id="67c950e7" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="/digital-solutions" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-grow" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text"> Digital Solutions</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-21f5a8a animated-slow elementor-invisible" data-id="21f5a8a" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-23c7e59c elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="23c7e59c" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-" >
+				<i aria-hidden="true" class="fas fa-funnel-dollar"></i>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span  >
+						 Traditional Advertising					</span>
+				</h3>
+									<p class="elementor-icon-box-description">
+						Custom marketing and media campaigns designed specifically for driving leads to your door whether that door is online or offline.
+
+					</p>
+							</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-438a6612 elementor-align-justify elementor-widget elementor-widget-button" data-id="438a6612" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="/traditional-solutions" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-grow" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text"> Traditional Solutions</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-646bd3fc animated-slow elementor-invisible" data-id="646bd3fc" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-25cedc59 elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="25cedc59" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-" >
+				<i aria-hidden="true" class="fas fa-handshake"></i>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span  >
+						Get<br>Results					</span>
+				</h3>
+									<p class="elementor-icon-box-description">
+						Each campaign and every client has a customized, highly visible and results-oriented analytics report used to track your campaign ROI.
+
+					</p>
+							</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-42628768 elementor-align-justify elementor-widget elementor-widget-button" data-id="42628768" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="/contact" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-grow" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Contact Us</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5bbeb56c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5bbeb56c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7d5d3403" data-id="7d5d3403" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-30aa797 elementor-widget elementor-widget-template" data-id="30aa797" data-element_type="widget" data-widget_type="template.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-template">
+					<div data-elementor-type="section" data-elementor-id="73" class="elementor elementor-73">
+								<section class="elementor-section elementor-top-section elementor-element elementor-element-40e817d2 animated-slow elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="40e817d2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-341bcde8" data-id="341bcde8" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4fae127e elementor-widget elementor-widget-heading" data-id="4fae127e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Featured Work</h2>		</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-7fe6bcab elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7fe6bcab" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-4bb869fe" data-id="4bb869fe" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+					<div class="elementor-background-overlay"></div>
+								<div class="elementor-element elementor-element-65ec727d elementor-widget elementor-widget-image" data-id="65ec727d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="/case-study/freddys">
+							<img decoding="async" width="300" height="300" src="http://reesedrift.local/wp-content/uploads/2023/03/freddys-300x300.png" class="elementor-animation-grow attachment-medium size-medium wp-image-74" alt="" loading="lazy" srcset="http://reesedrift.local/wp-content/uploads/2023/03/freddys-300x300.png 300w, http://reesedrift.local/wp-content/uploads/2023/03/freddys-150x150.png 150w, http://reesedrift.local/wp-content/uploads/2023/03/freddys.png 500w" sizes="(max-width: 300px) 100vw, 300px" />								</a>
+															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-1aebe096" data-id="1aebe096" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+					<div class="elementor-background-overlay"></div>
+								<div class="elementor-element elementor-element-13a03585 elementor-widget elementor-widget-image" data-id="13a03585" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="/case-study/ohm">
+							<img decoding="async" width="300" height="300" src="http://reesedrift.local/wp-content/uploads/2023/03/ohm-300x300.png" class="elementor-animation-grow attachment-medium size-medium wp-image-75" alt="" loading="lazy" srcset="http://reesedrift.local/wp-content/uploads/2023/03/ohm-300x300.png 300w, http://reesedrift.local/wp-content/uploads/2023/03/ohm-150x150.png 150w, http://reesedrift.local/wp-content/uploads/2023/03/ohm.png 500w" sizes="(max-width: 300px) 100vw, 300px" />								</a>
+															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-37893aae" data-id="37893aae" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+					<div class="elementor-background-overlay"></div>
+								<div class="elementor-element elementor-element-2a6713f3 elementor-widget elementor-widget-image" data-id="2a6713f3" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="/case-study/tanner-gun-show">
+							<img decoding="async" width="300" height="300" src="http://reesedrift.local/wp-content/uploads/2023/03/Tanner-Gun-Show-300x300.png" class="elementor-animation-grow attachment-medium size-medium wp-image-76" alt="" loading="lazy" srcset="http://reesedrift.local/wp-content/uploads/2023/03/Tanner-Gun-Show-300x300.png 300w, http://reesedrift.local/wp-content/uploads/2023/03/Tanner-Gun-Show-150x150.png 150w, http://reesedrift.local/wp-content/uploads/2023/03/Tanner-Gun-Show.png 500w" sizes="(max-width: 300px) 100vw, 300px" />								</a>
+															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<div class="elementor-element elementor-element-3dd28800 elementor-align-center elementor-widget elementor-widget-button" data-id="3dd28800" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="/our-work" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-grow" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">SEE MORE OF OUR WORK</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+				</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7501a20c elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="7501a20c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-373136c6" data-id="373136c6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-51cb8ea6 elementor-widget elementor-widget-template" data-id="51cb8ea6" data-element_type="widget" data-widget_type="template.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-template">
+					<div data-elementor-type="section" data-elementor-id="68" class="elementor elementor-68">
+								<section class="elementor-section elementor-top-section elementor-element elementor-element-6471817b drift-testimonials animated-slow elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="6471817b" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-13161960 animated-slow elementor-invisible" data-id="13161960" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-b38bbb6 elementor-widget elementor-widget-heading" data-id="b38bbb6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Remarkable Clients</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-8ecd3a9 elementor-testimonial--skin-bubble elementor-testimonial--layout-image_above animated-slow elementor-testimonial--align-center elementor-arrows-yes elementor-pagination-type-bullets elementor-invisible elementor-widget elementor-widget-testimonial-carousel" data-id="8ecd3a9" data-element_type="widget" data-settings="{&quot;slides_per_view&quot;:&quot;2&quot;,&quot;slides_per_view_tablet&quot;:&quot;2&quot;,&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;show_arrows&quot;:&quot;yes&quot;,&quot;pagination&quot;:&quot;bullets&quot;,&quot;speed&quot;:500,&quot;autoplay&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;loop&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;space_between&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]}}" data-widget_type="testimonial-carousel.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="http://reesedrift.local/wp-content/plugins/elementor-pro/assets/css/widget-carousel.min.css">		<div class="elementor-swiper">
+			<div class="elementor-main-swiper swiper">
+				<div class="swiper-wrapper">
+											<div class="swiper-slide">
+									<div class="elementor-testimonial">
+							<div class="elementor-testimonial__content">
+					<div class="elementor-testimonial__text">
+						I highly recommend working with Adam from Drift media, he's a great problem solver, resourceful, consistent and attentive to our specific needs. Thank you Adam, you're the best!
+					</div>
+									</div>
+						<div class="elementor-testimonial__footer">
+									<div class="elementor-testimonial__image">
+						<img decoding="async" src="http://reesedrift.local/wp-content/uploads/2023/03/sklein-test.png" alt="Sadie Klein">
+											</div>
+								<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Sadie Klein</span></cite>			</div>
+		</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-testimonial">
+							<div class="elementor-testimonial__content">
+					<div class="elementor-testimonial__text">
+						They've been an excellent partner on local, out-of-home ad campaigns. Adam is professional, easy to work with, and knows the business. If you have the chance to work with Adam and Drift Media, you should take it!					</div>
+									</div>
+						<div class="elementor-testimonial__footer">
+									<div class="elementor-testimonial__image">
+						<img decoding="async" src="http://reesedrift.local/wp-content/uploads/2023/03/jmansfield-test.png" alt="Jake Mansfield">
+											</div>
+								<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Jake Mansfield</span></cite>			</div>
+		</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-testimonial">
+							<div class="elementor-testimonial__content">
+					<div class="elementor-testimonial__text">
+						Drift Media Solutions is a highly professional media company that drives exceptional value for their clients thru savvy strategic plans and negotiation. Highly responsive as well.					</div>
+									</div>
+						<div class="elementor-testimonial__footer">
+									<div class="elementor-testimonial__image">
+						<img decoding="async" src="http://reesedrift.local/wp-content/uploads/2023/03/dmenk-test.png" alt="David Menk">
+											</div>
+								<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">David Menk</span></cite>			</div>
+		</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-testimonial">
+							<div class="elementor-testimonial__content">
+					<div class="elementor-testimonial__text">
+						Adam is great to work with.  He's a true professional and knows his clients well.  He's always looking for the best way to drive ROI with effective media strategies.
+					</div>
+									</div>
+						<div class="elementor-testimonial__footer">
+									<div class="elementor-testimonial__image">
+						<img decoding="async" src="http://reesedrift.local/wp-content/uploads/2023/03/malarcon-test.png" alt="Michael Alarcon">
+											</div>
+								<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Michael Alarcon</span></cite>			</div>
+		</div>
+								</div>
+											<div class="swiper-slide">
+									<div class="elementor-testimonial">
+							<div class="elementor-testimonial__content">
+					<div class="elementor-testimonial__text">
+						One of the best things about working with Adam with Drift Media is the consistency of personal attention to our partnership.  Drift Media is super-creative and are always willing to innovate to help the clients we share standout in the marketplace. They have never failed to deliver a customized solution to both our business goals.  Adam is both a pleasure to work with and his customer service is phenomenal!					</div>
+									</div>
+						<div class="elementor-testimonial__footer">
+									<div class="elementor-testimonial__image">
+						<img decoding="async" src="http://reesedrift.local/wp-content/uploads/2023/03/agrable-test.png" alt="Aimee Grable">
+											</div>
+								<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Aimee Grable</span></cite>			</div>
+		</div>
+								</div>
+									</div>
+															<div class="swiper-pagination"></div>
+																<div class="elementor-swiper-button elementor-swiper-button-prev">
+							<i aria-hidden="true" class="eicon-chevron-left"></i>							<span class="elementor-screen-only">Previous</span>
+						</div>
+						<div class="elementor-swiper-button elementor-swiper-button-next">
+							<i aria-hidden="true" class="eicon-chevron-right"></i>							<span class="elementor-screen-only">Next</span>
+						</div>
+												</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-473e0beb elementor-align-center animated-slow elementor-invisible elementor-widget elementor-widget-button" data-id="473e0beb" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="/contact" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-grow" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">CONTACT US</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+				</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-544464d3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="544464d3" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4d74a285" data-id="4d74a285" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-683d5f42 elementor-widget elementor-widget-template" data-id="683d5f42" data-element_type="widget" data-widget_type="template.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-template">
+					<div data-elementor-type="section" data-elementor-id="65" class="elementor elementor-65">
+								<section class="elementor-section elementor-top-section elementor-element elementor-element-fdcc6fe drift-achievements animated-slow elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="fdcc6fe" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-773f1cff" data-id="773f1cff" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-6f7074e0 elementor-widget elementor-widget-heading" data-id="6f7074e0" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Drift Achievements</h2>		</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-61c2ba85 elementor-section-content-middle animated-slow elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="61c2ba85" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-6c15277f" data-id="6c15277f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4af678e7 elementor-widget elementor-widget-image" data-id="4af678e7" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="768" height="768" src="http://reesedrift.local/wp-content/uploads/2023/03/extertise-2023-768x768.png" class="attachment-medium_large size-medium_large wp-image-52" alt="" loading="lazy" srcset="http://reesedrift.local/wp-content/uploads/2023/03/extertise-2023-768x768.png 768w, http://reesedrift.local/wp-content/uploads/2023/03/extertise-2023-300x300.png 300w, http://reesedrift.local/wp-content/uploads/2023/03/extertise-2023-150x150.png 150w, http://reesedrift.local/wp-content/uploads/2023/03/extertise-2023.png 1000w" sizes="(max-width: 768px) 100vw, 768px" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-ffbd164" data-id="ffbd164" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4b3c4f96 elementor-widget elementor-widget-image" data-id="4b3c4f96" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="768" height="768" src="http://reesedrift.local/wp-content/uploads/2023/03/excellence-768x768.png" class="attachment-medium_large size-medium_large wp-image-53" alt="" loading="lazy" srcset="http://reesedrift.local/wp-content/uploads/2023/03/excellence-768x768.png 768w, http://reesedrift.local/wp-content/uploads/2023/03/excellence-300x300.png 300w, http://reesedrift.local/wp-content/uploads/2023/03/excellence-150x150.png 150w, http://reesedrift.local/wp-content/uploads/2023/03/excellence.png 1000w" sizes="(max-width: 768px) 100vw, 768px" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-30692220" data-id="30692220" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-6f165840 elementor-widget elementor-widget-image" data-id="6f165840" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="768" height="768" src="http://reesedrift.local/wp-content/uploads/2023/03/clutch-2020-768x768.png" class="attachment-medium_large size-medium_large wp-image-54" alt="" loading="lazy" srcset="http://reesedrift.local/wp-content/uploads/2023/03/clutch-2020-768x768.png 768w, http://reesedrift.local/wp-content/uploads/2023/03/clutch-2020-300x300.png 300w, http://reesedrift.local/wp-content/uploads/2023/03/clutch-2020-150x150.png 150w, http://reesedrift.local/wp-content/uploads/2023/03/clutch-2020.png 1000w" sizes="(max-width: 768px) 100vw, 768px" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-6a51436 elementor-section-content-middle animated-slow elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="6a51436" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-40ee7e6a" data-id="40ee7e6a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-39c4689f elementor-widget elementor-widget-image" data-id="39c4689f" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="768" height="768" src="http://reesedrift.local/wp-content/uploads/2023/03/google-ads-1-768x768.png" class="attachment-medium_large size-medium_large wp-image-56" alt="" loading="lazy" srcset="http://reesedrift.local/wp-content/uploads/2023/03/google-ads-1-768x768.png 768w, http://reesedrift.local/wp-content/uploads/2023/03/google-ads-1-300x300.png 300w, http://reesedrift.local/wp-content/uploads/2023/03/google-ads-1-150x150.png 150w, http://reesedrift.local/wp-content/uploads/2023/03/google-ads-1.png 1000w" sizes="(max-width: 768px) 100vw, 768px" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-6849319c" data-id="6849319c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-356cd77f elementor-widget elementor-widget-image" data-id="356cd77f" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="768" height="768" src="http://reesedrift.local/wp-content/uploads/2023/03/google-analytics-768x768.png" class="attachment-medium_large size-medium_large wp-image-57" alt="" loading="lazy" srcset="http://reesedrift.local/wp-content/uploads/2023/03/google-analytics-768x768.png 768w, http://reesedrift.local/wp-content/uploads/2023/03/google-analytics-300x300.png 300w, http://reesedrift.local/wp-content/uploads/2023/03/google-analytics-150x150.png 150w, http://reesedrift.local/wp-content/uploads/2023/03/google-analytics.png 1000w" sizes="(max-width: 768px) 100vw, 768px" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-2e6e638f" data-id="2e6e638f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-37188a5e elementor-widget elementor-widget-image" data-id="37188a5e" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="768" height="768" src="http://reesedrift.local/wp-content/uploads/2023/03/google-m-business-768x768.png" class="attachment-medium_large size-medium_large wp-image-55" alt="" loading="lazy" srcset="http://reesedrift.local/wp-content/uploads/2023/03/google-m-business-768x768.png 768w, http://reesedrift.local/wp-content/uploads/2023/03/google-m-business-300x300.png 300w, http://reesedrift.local/wp-content/uploads/2023/03/google-m-business-150x150.png 150w, http://reesedrift.local/wp-content/uploads/2023/03/google-m-business.png 1000w" sizes="(max-width: 768px) 100vw, 768px" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<div class="elementor-element elementor-element-7641aec1 elementor-align-center animated-slow elementor-invisible elementor-widget elementor-widget-button" data-id="7641aec1" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="/about" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-grow" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">LEARN MORE ABOUT US</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+				</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-65452a97 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="65452a97" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-560760d3" data-id="560760d3" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-b38d501 elementor-widget elementor-widget-template" data-id="b38d501" data-element_type="widget" data-widget_type="template.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-template">
+					<div data-elementor-type="section" data-elementor-id="86" class="elementor elementor-86">
+								<section class="elementor-section elementor-top-section elementor-element elementor-element-36b1af elementor-section-full_width elementor-section-height-min-height drift-consultation animated-slow elementor-section-height-default elementor-section-items-middle elementor-invisible" data-id="36b1af" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1f36b760" data-id="1f36b760" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5374cb1f elementor-widget elementor-widget-heading" data-id="5374cb1f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Consult With Us Today</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3a51c8d3 elementor-widget elementor-widget-text-editor" data-id="3a51c8d3" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<div class="fusion-text fusion-text-2"><p>A 30-minute needs analysis will give you all the details you’ll need to make the decision your company deserves.</p></div>						</div>
+				</div>
+				<div class="elementor-element elementor-element-34d5fa52 elementor-align-center animated-slow elementor-invisible elementor-widget elementor-widget-button" data-id="34d5fa52" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="/contact" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-grow" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">CONTACT US </span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+				</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+				<div data-elementor-type="footer" data-elementor-id="90" class="elementor elementor-90 elementor-location-footer">
+								<section class="elementor-section elementor-top-section elementor-element elementor-element-7f12cfc5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7f12cfc5" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-522beeb4" data-id="522beeb4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-49de6b2c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="49de6b2c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-501c92d0" data-id="501c92d0" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-71d29bdd elementor-widget elementor-widget-image" data-id="71d29bdd" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://reesedev.xyz">
+							<img width="1000" height="1000" src="http://reesedrift.local/wp-content/uploads/2023/03/badge-lockup-color.png" class="attachment-full size-full wp-image-91" alt="" loading="lazy" srcset="http://reesedrift.local/wp-content/uploads/2023/03/badge-lockup-color.png 1000w, http://reesedrift.local/wp-content/uploads/2023/03/badge-lockup-color-300x300.png 300w, http://reesedrift.local/wp-content/uploads/2023/03/badge-lockup-color-150x150.png 150w, http://reesedrift.local/wp-content/uploads/2023/03/badge-lockup-color-768x768.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" />								</a>
+															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-1633c3ef" data-id="1633c3ef" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5a80a941 elementor-widget elementor-widget-heading" data-id="5a80a941" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Solutions</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-13082291 elementor-align-left elementor-tablet-align-center elementor-widget elementor-widget-button" data-id="13082291" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="/digital-solutions/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Digital</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-2071f817 elementor-align-left elementor-tablet-align-center elementor-widget elementor-widget-button" data-id="2071f817" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="/traditional-solutions" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Traditional </span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4186255a elementor-align-left elementor-tablet-align-center elementor-widget elementor-widget-button" data-id="4186255a" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="/seo-checker" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Website SEO Checker</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-69b2f5a9 elementor-align-left elementor-tablet-align-center elementor-widget elementor-widget-button" data-id="69b2f5a9" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="/case-studies" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Case Studies</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-18cdad68" data-id="18cdad68" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-61ff1b2e elementor-widget elementor-widget-heading" data-id="61ff1b2e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Connect</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-44811ead elementor-align-left elementor-tablet-align-center elementor-widget elementor-widget-button" data-id="44811ead" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="mailto:%20adam@driftmediasolutions" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">adam@driftmediasolutions.com</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-3dc72875 elementor-align-left elementor-tablet-align-center elementor-widget elementor-widget-button" data-id="3dc72875" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="/contact" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Contact Us</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-31861186 elementor-shape-circle e-grid-align-right e-grid-align-tablet-center elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="31861186" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.11.3 - 07-03-2023 */
+.elementor-widget-social-icons.elementor-grid-0 .elementor-widget-container,.elementor-widget-social-icons.elementor-grid-mobile-0 .elementor-widget-container,.elementor-widget-social-icons.elementor-grid-tablet-0 .elementor-widget-container{line-height:1;font-size:0}.elementor-widget-social-icons:not(.elementor-grid-0):not(.elementor-grid-tablet-0):not(.elementor-grid-mobile-0) .elementor-grid{display:inline-grid}.elementor-widget-social-icons .elementor-grid{grid-column-gap:var(--grid-column-gap,5px);grid-row-gap:var(--grid-row-gap,5px);grid-template-columns:var(--grid-template-columns);justify-content:var(--justify-content,center);justify-items:var(--justify-content,center)}.elementor-icon.elementor-social-icon{font-size:var(--icon-size,25px);line-height:var(--icon-size,25px);width:calc(var(--icon-size, 25px) + (2 * var(--icon-padding, .5em)));height:calc(var(--icon-size, 25px) + (2 * var(--icon-padding, .5em)))}.elementor-social-icon{--e-social-icon-icon-color:#fff;display:inline-flex;background-color:#818a91;align-items:center;justify-content:center;text-align:center;cursor:pointer}.elementor-social-icon i{color:var(--e-social-icon-icon-color)}.elementor-social-icon svg{fill:var(--e-social-icon-icon-color)}.elementor-social-icon:last-child{margin:0}.elementor-social-icon:hover{opacity:.9;color:#fff}.elementor-social-icon-android{background-color:#a4c639}.elementor-social-icon-apple{background-color:#999}.elementor-social-icon-behance{background-color:#1769ff}.elementor-social-icon-bitbucket{background-color:#205081}.elementor-social-icon-codepen{background-color:#000}.elementor-social-icon-delicious{background-color:#39f}.elementor-social-icon-deviantart{background-color:#05cc47}.elementor-social-icon-digg{background-color:#005be2}.elementor-social-icon-dribbble{background-color:#ea4c89}.elementor-social-icon-elementor{background-color:#d30c5c}.elementor-social-icon-envelope{background-color:#ea4335}.elementor-social-icon-facebook,.elementor-social-icon-facebook-f{background-color:#3b5998}.elementor-social-icon-flickr{background-color:#0063dc}.elementor-social-icon-foursquare{background-color:#2d5be3}.elementor-social-icon-free-code-camp,.elementor-social-icon-freecodecamp{background-color:#006400}.elementor-social-icon-github{background-color:#333}.elementor-social-icon-gitlab{background-color:#e24329}.elementor-social-icon-globe{background-color:#818a91}.elementor-social-icon-google-plus,.elementor-social-icon-google-plus-g{background-color:#dd4b39}.elementor-social-icon-houzz{background-color:#7ac142}.elementor-social-icon-instagram{background-color:#262626}.elementor-social-icon-jsfiddle{background-color:#487aa2}.elementor-social-icon-link{background-color:#818a91}.elementor-social-icon-linkedin,.elementor-social-icon-linkedin-in{background-color:#0077b5}.elementor-social-icon-medium{background-color:#00ab6b}.elementor-social-icon-meetup{background-color:#ec1c40}.elementor-social-icon-mixcloud{background-color:#273a4b}.elementor-social-icon-odnoklassniki{background-color:#f4731c}.elementor-social-icon-pinterest{background-color:#bd081c}.elementor-social-icon-product-hunt{background-color:#da552f}.elementor-social-icon-reddit{background-color:#ff4500}.elementor-social-icon-rss{background-color:#f26522}.elementor-social-icon-shopping-cart{background-color:#4caf50}.elementor-social-icon-skype{background-color:#00aff0}.elementor-social-icon-slideshare{background-color:#0077b5}.elementor-social-icon-snapchat{background-color:#fffc00}.elementor-social-icon-soundcloud{background-color:#f80}.elementor-social-icon-spotify{background-color:#2ebd59}.elementor-social-icon-stack-overflow{background-color:#fe7a15}.elementor-social-icon-steam{background-color:#00adee}.elementor-social-icon-stumbleupon{background-color:#eb4924}.elementor-social-icon-telegram{background-color:#2ca5e0}.elementor-social-icon-thumb-tack{background-color:#1aa1d8}.elementor-social-icon-tripadvisor{background-color:#589442}.elementor-social-icon-tumblr{background-color:#35465c}.elementor-social-icon-twitch{background-color:#6441a5}.elementor-social-icon-twitter{background-color:#1da1f2}.elementor-social-icon-viber{background-color:#665cac}.elementor-social-icon-vimeo{background-color:#1ab7ea}.elementor-social-icon-vk{background-color:#45668e}.elementor-social-icon-weibo{background-color:#dd2430}.elementor-social-icon-weixin{background-color:#31a918}.elementor-social-icon-whatsapp{background-color:#25d366}.elementor-social-icon-wordpress{background-color:#21759b}.elementor-social-icon-xing{background-color:#026466}.elementor-social-icon-yelp{background-color:#af0606}.elementor-social-icon-youtube{background-color:#cd201f}.elementor-social-icon-500px{background-color:#0099e5}.elementor-shape-rounded .elementor-icon.elementor-social-icon{border-radius:10%}.elementor-shape-circle .elementor-icon.elementor-social-icon{border-radius:50%}</style>		<div class="elementor-social-icons-wrapper elementor-grid">
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-animation-grow elementor-repeater-item-c1d8bea" href="https://www.facebook.com/DriftMediaSolutions" target="_blank">
+						<span class="elementor-screen-only">Facebook-f</span>
+						<i class="fab fa-facebook-f"></i>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin-in elementor-animation-grow elementor-repeater-item-15f39dd" href="https://www.linkedin.com/company/drift-media-solutions" target="_blank">
+						<span class="elementor-screen-only">Linkedin-in</span>
+						<i class="fab fa-linkedin-in"></i>					</a>
+				</span>
+					</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-58242e29 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="58242e29" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-434dfa1e" data-id="434dfa1e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-25bcd524 elementor-widget elementor-widget-text-editor" data-id="25bcd524" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<a style="color: #060606; font-weight: 500;" href="/privacy-policy">Privacy Policy</a>   |   <a style="color: #060606; font-weight: 500" href="/terms-conditions ">Terms &amp; Conditions</a>						</div>
+				</div>
+				<div class="elementor-element elementor-element-1d76b557 elementor-widget elementor-widget-text-editor" data-id="1d76b557" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							©2019 – 2023  |  All Rights Reserved  |  Powered by <a href="https://driftmediasolutions.com" style="color: #060606">Drift Media</a>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+		
+		<div data-elementor-type="popup" data-elementor-id="34" class="elementor elementor-34 elementor-location-popup" data-elementor-settings="{&quot;entrance_animation_tablet&quot;:&quot;slideInRight&quot;,&quot;exit_animation_tablet&quot;:&quot;slideInRight&quot;,&quot;avoid_multiple_popups&quot;:&quot;yes&quot;,&quot;entrance_animation&quot;:&quot;slideInRight&quot;,&quot;exit_animation&quot;:&quot;slideInRight&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0.69999999999999996,&quot;sizes&quot;:[]},&quot;a11y_navigation&quot;:&quot;yes&quot;,&quot;timing&quot;:[]}">
+								<section class="elementor-section elementor-top-section elementor-element elementor-element-7ef45303 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="7ef45303" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-7ed975a" data-id="7ed975a" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-d280697 elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="d280697" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
+				<ul id="menu-1-d280697" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-191"><a class="elementor-item">Services</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-190"><a href="http://reesedrift.local/digital-solutions/" class="elementor-sub-item">Digital Solutions</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-187"><a href="http://reesedrift.local/traditional-solutions/" class="elementor-sub-item">Traditional Solutions</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-188"><a href="http://reesedrift.local/website-seo-checker/" class="elementor-sub-item">Website SEO Checker</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-189"><a href="http://reesedrift.local/our-work/" class="elementor-item">Our Work</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-186"><a href="http://reesedrift.local/about-us/" class="elementor-item">About Us</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-199"><a class="elementor-item">Case Studies</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-198"><a href="http://reesedrift.local/freddys/" class="elementor-sub-item">Freddy’s</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-196"><a href="http://reesedrift.local/ohm/" class="elementor-sub-item">OHM</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-192"><a href="http://reesedrift.local/omnia-health/" class="elementor-sub-item">Omnia Health</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-193"><a href="http://reesedrift.local/tanner-gun-show/" class="elementor-sub-item">Tanner Gun Show</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195"><a href="http://reesedrift.local/rocky-mountain-bridal-show/" class="elementor-sub-item">Rocky Mountain Bridal Show</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-194"><a href="http://reesedrift.local/mccune-legal/" class="elementor-sub-item">McCune Legal</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-200"><a href="http://reesedrift.local/colorado-gun-collectors-association/" class="elementor-sub-item">Colorado Gun Collectors Association</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-197"><a href="http://reesedrift.local/blog/" class="elementor-item">Blog</a></li>
+</ul>			</nav>
+						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-2-d280697" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-191"><a class="elementor-item" tabindex="-1">Services</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-190"><a href="http://reesedrift.local/digital-solutions/" class="elementor-sub-item" tabindex="-1">Digital Solutions</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-187"><a href="http://reesedrift.local/traditional-solutions/" class="elementor-sub-item" tabindex="-1">Traditional Solutions</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-188"><a href="http://reesedrift.local/website-seo-checker/" class="elementor-sub-item" tabindex="-1">Website SEO Checker</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-189"><a href="http://reesedrift.local/our-work/" class="elementor-item" tabindex="-1">Our Work</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-186"><a href="http://reesedrift.local/about-us/" class="elementor-item" tabindex="-1">About Us</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-199"><a class="elementor-item" tabindex="-1">Case Studies</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-198"><a href="http://reesedrift.local/freddys/" class="elementor-sub-item" tabindex="-1">Freddy’s</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-196"><a href="http://reesedrift.local/ohm/" class="elementor-sub-item" tabindex="-1">OHM</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-192"><a href="http://reesedrift.local/omnia-health/" class="elementor-sub-item" tabindex="-1">Omnia Health</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-193"><a href="http://reesedrift.local/tanner-gun-show/" class="elementor-sub-item" tabindex="-1">Tanner Gun Show</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195"><a href="http://reesedrift.local/rocky-mountain-bridal-show/" class="elementor-sub-item" tabindex="-1">Rocky Mountain Bridal Show</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-194"><a href="http://reesedrift.local/mccune-legal/" class="elementor-sub-item" tabindex="-1">McCune Legal</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-200"><a href="http://reesedrift.local/colorado-gun-collectors-association/" class="elementor-sub-item" tabindex="-1">Colorado Gun Collectors Association</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-197"><a href="http://reesedrift.local/blog/" class="elementor-item" tabindex="-1">Blog</a></li>
+</ul>			</nav>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-288e8b44 elementor-tablet-align-justify elementor-align-justify elementor-widget elementor-widget-button" data-id="288e8b44" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="/contact" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-grow" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">CONTACT US</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-7c5cb375" data-id="7c5cb375" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+							</div>
+		</section>
+						</div>
+		<link rel='stylesheet' id='elementor-post-73-css' href='http://reesedrift.local/wp-content/uploads/elementor/css/post-73.css?ver=1678295648' media='all' />
+<link rel='stylesheet' id='elementor-post-68-css' href='http://reesedrift.local/wp-content/uploads/elementor/css/post-68.css?ver=1678295648' media='all' />
+<link rel='stylesheet' id='elementor-post-65-css' href='http://reesedrift.local/wp-content/uploads/elementor/css/post-65.css?ver=1678295648' media='all' />
+<link rel='stylesheet' id='elementor-post-86-css' href='http://reesedrift.local/wp-content/uploads/elementor/css/post-86.css?ver=1678295648' media='all' />
+<link rel='stylesheet' id='elementor-post-34-css' href='http://reesedrift.local/wp-content/uploads/elementor/css/post-34.css?ver=1678295648' media='all' />
+<link rel='stylesheet' id='e-animations-css' href='http://reesedrift.local/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.11.3' media='all' />
+<script src='http://reesedrift.local/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=1.0.0' id='hello-theme-frontend-js'></script>
+<script src='http://reesedrift.local/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1' id='smartmenus-js'></script>
+<script src='http://reesedrift.local/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
+<script src='http://reesedrift.local/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.11.4' id='elementor-pro-webpack-runtime-js'></script>
+<script src='http://reesedrift.local/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.11.3' id='elementor-webpack-runtime-js'></script>
+<script src='http://reesedrift.local/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.11.3' id='elementor-frontend-modules-js'></script>
+<script src='http://reesedrift.local/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js'></script>
+<script src='http://reesedrift.local/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script src='http://reesedrift.local/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5' id='wp-hooks-js'></script>
+<script src='http://reesedrift.local/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae' id='wp-i18n-js'></script>
+<script id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script id='elementor-pro-frontend-js-before'>
+var ElementorProFrontendConfig = {"ajaxurl":"http:\/\/reesedrift.local\/wp-admin\/admin-ajax.php","nonce":"44940c714a","urls":{"assets":"http:\/\/reesedrift.local\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"http:\/\/reesedrift.local\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"http:\/\/reesedrift.local\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script src='http://reesedrift.local/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.11.4' id='elementor-pro-frontend-js'></script>
+<script src='http://reesedrift.local/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script src='http://reesedrift.local/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2' id='jquery-ui-core-js'></script>
+<script id='elementor-frontend-js-before'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.11.3","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"additional_custom_breakpoints":true,"e_swiper_latest":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"landing-pages":true,"kit-elements-defaults":true,"page-transitions":true,"notes":true,"loop":true,"form-submissions":true,"e_scroll_snap":true},"urls":{"assets":"http:\/\/reesedrift.local\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"body_background_background":"classic","active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"logo","hello_header_menu_layout":"horizontal","hello_footer_logo_type":"logo"},"post":{"id":165,"title":"Drift%20Media%20Solutions%20-%20reesedrift","excerpt":"","featuredImage":false}};
+</script>
+<script src='http://reesedrift.local/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.11.3' id='elementor-frontend-js'></script>
+<script src='http://reesedrift.local/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.11.4' id='pro-elements-handlers-js'></script>
+
+</body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced 
+
+Served from: reesedrift.local @ 2023-03-08 17:14:09 by W3 Total Cache
+-->
